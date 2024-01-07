@@ -27,6 +27,7 @@
 <div id="implementation">
 <h2 align="center">👁️‍🗨️ I M P L E M E N T A T I O N 👁️‍🗨️</h2>
 
+<h3 align="center"><img src="https://github.com/AlekseyShashkov/PokemonTMS/assets/17510024/32580b13-9efa-4868-a6d6-1c94301e828b" height="15px"/> Pokemon</h3>
 <img src="https://github.com/AlekseyShashkov/PokemonTMS/assets/17510024/925eb321-3254-433c-a058-ce6102e8b9d4" align="left" width="215px"/>
 
 ```csharp
@@ -43,6 +44,8 @@ public abstract class Pokemon
 }
 ```
 <hr/>
+
+<h3 align="center"><img src="https://github.com/AlekseyShashkov/PokemonTMS/assets/17510024/32580b13-9efa-4868-a6d6-1c94301e828b" height="15px"/> Slowpoke</h3>
 <img src="https://github.com/AlekseyShashkov/PokemonTMS/assets/17510024/835ba365-d4fd-49c1-aabd-b0d8b10d82a2" align="left" width="215px"/>
   
 ```csharp
@@ -64,6 +67,8 @@ public class Slowpoke : Pokemon
 }
 ```
 <hr/>
+
+<h3 align="center"><img src="https://github.com/AlekseyShashkov/PokemonTMS/assets/17510024/32580b13-9efa-4868-a6d6-1c94301e828b" height="15px"/> Pichu</h3>
 <img src="https://github.com/AlekseyShashkov/PokemonTMS/assets/17510024/c40e2e09-7dc1-4ad6-82d5-f3e9d72d0a55" align="left" width="215px"/>
   
 ```csharp
@@ -83,6 +88,8 @@ public class Pichu : Pokemon
 }
 ```
 <hr/>
+
+<h3 align="center"><img src="https://github.com/AlekseyShashkov/PokemonTMS/assets/17510024/32580b13-9efa-4868-a6d6-1c94301e828b" height="15px"/> Pikachu</h3>
 <img src="https://github.com/AlekseyShashkov/PokemonTMS/assets/17510024/67476c28-bd8c-4de5-a5f4-8fe45ee856ab" align="left" width="215px"/>
 
 ```csharp
@@ -106,6 +113,8 @@ public class Pikachu : Pichu
 }
 ```
 <hr/>
+
+<h3 align="center"><img src="https://github.com/AlekseyShashkov/PokemonTMS/assets/17510024/32580b13-9efa-4868-a6d6-1c94301e828b" height="15px"/> Raichu</h3>
 <img src="https://github.com/AlekseyShashkov/PokemonTMS/assets/17510024/90376635-8b70-428c-bba5-f33db901378a" align="left" width="215px"/>
  
 ```csharp
@@ -128,6 +137,19 @@ public class Raichu : Pikachu
     public void SleepLong() => Console.WriteLine ($"+Sleep {SleepTime} hours+");   
 }
 ```
-
 </div>
 
+<div id="literature">
+<h2 align="center">📚 L I T E R A T U R E 📚</h2>
+
+📗 [<i>Характеристики покемонов</i>](https://pokemondb.net/)
+<br>
+📘 [<i>Картинки покемонов</i>](https://www.pokemon.com/ru/)
+<br>
+📕 [<i>Взаимосвязи схемы классов UML, объясненные с примерами</i>](https://creately.com/blog/ru/uncategorized-ru/%D0%B2%D0%B7%D0%B0%D0%B8%D0%BC%D0%BE%D1%81%D0%B2%D1%8F%D0%B7%D0%B8-%D1%81%D1%85%D0%B5%D0%BC%D1%8B-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BE%D0%B2-uml-%D0%BE%D0%B1%D1%8A%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%BD/)
+</div>
+
+<hr/>
+<p align="center">
+<img src="https://github.com/AlekseyShashkov/PokemonTMS/assets/17510024/6fd1ce48-7205-4509-8a11-287a69d11d7b"/>
+</p>
