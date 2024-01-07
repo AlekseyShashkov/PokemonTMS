@@ -29,7 +29,7 @@
 
 <table align="center">
 <tr>
-  <th>&nbsp;&nbsp;&nbsp;<b>Entity</b>&nbsp;&nbsp;&nbsp;</th>
+  <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Entity</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
   <th><b>Class</b></th>
 </tr>
 <tr>
