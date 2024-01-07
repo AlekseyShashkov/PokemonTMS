@@ -29,7 +29,7 @@
 
 <table align="center">
 <tr>
-  <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Entity</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+  <th><b>Entity</b></th>
   <th><b>Class</b></th>
 </tr>
 <tr>
@@ -123,9 +123,11 @@ public class Raichu : Pikachu
         Speed += 20;
     }
     
-    sealed public override void Hit() => Console.WriteLine ("Use +Strong lightning+");
+    sealed public override void Hit() =>
+        Console.WriteLine ("Use +Strong lightning+");
     
-    public void SleepLong() => Console.WriteLine ($"+Sleep {SleepTime} hours+");
+    public void SleepLong() =>
+        Console.WriteLine ($"+Sleep {SleepTime} hours+");
 }
 ```
   </td>
