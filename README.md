@@ -123,11 +123,9 @@ public class Raichu : Pikachu
         Speed += 20;
     }
     
-    sealed public override void Hit() =>
-        Console.WriteLine ("Use +Strong lightning+");
-    
-    public void SleepLong() =>
-        Console.WriteLine ($"+Sleep {SleepTime} hours+");
+    sealed public override void Hit() => Console.WriteLine ("Use +Strong lightning+");
+        
+    public void SleepLong() => Console.WriteLine ($"+Sleep {SleepTime} hours+");   
 }
 ```
   </td>
