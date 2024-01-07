@@ -33,7 +33,7 @@
   <th><b>Class</b></th>
 </tr>
 <tr>
-  <td><img src="https://github.com/AlekseyShashkov/PokemonTMS/assets/17510024/835ba365-d4fd-49c1-aabd-b0d8b10d82a2"/><br><p align="center">Slowpoke</p></td>
+  <td><img src="https://github.com/AlekseyShashkov/PokemonTMS/assets/17510024/835ba365-d4fd-49c1-aabd-b0d8b10d82a2" width="215"/><br><p align="center">Slowpoke</p></td>
   <td>
   
 ```csharp
