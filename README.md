@@ -27,14 +27,23 @@
 <div id="implementation">
 <h2 align="center">👁️‍🗨️ I M P L E M E N T A T I O N 👁️‍🗨️</h2>
 
-<table align="center">
-<tr>
-  <th><b>Entity</b></th>
-  <th><b>Class</b></th>
-</tr>
-<tr>
-  <td><img src="https://github.com/AlekseyShashkov/PokemonTMS/assets/17510024/835ba365-d4fd-49c1-aabd-b0d8b10d82a2" width="215"/><br><p align="center">Slowpoke</p></td>
-  <td>
+<img src="https://github.com/AlekseyShashkov/PokemonTMS/assets/17510024/925eb321-3254-433c-a058-ce6102e8b9d4" align="left" width="215px"/>
+
+```csharp
+public abstract class Pokemon
+{
+     public int HP { get; protected set; } 
+     public int Attack { get; protected set; } 
+     public int Defense { get; protected set; } 
+     public int SpecialAtack { get; protected set; } 
+     public int SpecialDefense { get; protected set; } 
+     public int Speed { get; protected set; } 
+     
+     public abstract void Hit();
+}
+```
+<hr/>
+<img src="https://github.com/AlekseyShashkov/PokemonTMS/assets/17510024/835ba365-d4fd-49c1-aabd-b0d8b10d82a2" align="left" width="215px"/>
   
 ```csharp
 public class Slowpoke : Pokemon
@@ -54,11 +63,8 @@ public class Slowpoke : Pokemon
     public void Sleep() => Console.WriteLine ("+Sleep+");
 }
 ```
-  </td>
-</tr>
-<tr>
-  <td><img src="https://github.com/AlekseyShashkov/PokemonTMS/assets/17510024/c40e2e09-7dc1-4ad6-82d5-f3e9d72d0a55"/><br><p align="center">Pichu</p></td>
-  <td>
+<hr/>
+<img src="https://github.com/AlekseyShashkov/PokemonTMS/assets/17510024/c40e2e09-7dc1-4ad6-82d5-f3e9d72d0a55" align="left" width="215px"/>
   
 ```csharp
 public class Pichu : Pokemon
@@ -76,12 +82,9 @@ public class Pichu : Pokemon
     public override void Hit() => Console.WriteLine ("Use +Weak lightning+");
 }
 ```
-  </td>
-</tr>
-<tr>
-  <td><img src="https://github.com/AlekseyShashkov/PokemonTMS/assets/17510024/67476c28-bd8c-4de5-a5f4-8fe45ee856ab"/><br><p align="center">Pikachu</p></td>
-  <td>
-  
+<hr/>
+<img src="https://github.com/AlekseyShashkov/PokemonTMS/assets/17510024/67476c28-bd8c-4de5-a5f4-8fe45ee856ab" align="left" width="215px"/>
+
 ```csharp
 public class Pikachu : Pichu
 {
@@ -102,12 +105,9 @@ public class Pikachu : Pichu
     }
 }
 ```
-  </td>
-</tr>
-<tr>
-  <td><img src="https://github.com/AlekseyShashkov/PokemonTMS/assets/17510024/90376635-8b70-428c-bba5-f33db901378a"/><br><p align="center">Raichu</p></td>
-  <td>
-  
+<hr/>
+<img src="https://github.com/AlekseyShashkov/PokemonTMS/assets/17510024/90376635-8b70-428c-bba5-f33db901378a" align="left" width="215px"/>
+ 
 ```csharp
 public class Raichu : Pikachu
 {
@@ -128,7 +128,6 @@ public class Raichu : Pikachu
     public void SleepLong() => Console.WriteLine ($"+Sleep {SleepTime} hours+");   
 }
 ```
-  </td>
-</tr>
-</table>
+
 </div>
+
