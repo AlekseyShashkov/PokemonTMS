@@ -28,7 +28,7 @@
 <h2 align="center">👁️‍🗨️ I M P L E M E N T A T I O N 👁️‍🗨️</h2>
 
 <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="img/pokemon/Pokeball.gif" height="15px"/> Pokemon</h3>
-<img src="img/pokemon/Pokemon.png" align="left" width="215px"/>
+<img src="img/pokemon/Pokeball.png" align="left" width="215px"/>
 
 ```csharp
 public abstract class Pokemon
