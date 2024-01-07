@@ -27,7 +27,7 @@
 <div id="implementation">
 <h2 align="center">👁️‍🗨️ I M P L E M E N T A T I O N 👁️‍🗨️</h2>
 
-<h3 align="center"><img src="https://github.com/AlekseyShashkov/PokemonTMS/assets/17510024/32580b13-9efa-4868-a6d6-1c94301e828b" height="15px"/> Pokemon</h3>
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AlekseyShashkov/PokemonTMS/assets/17510024/32580b13-9efa-4868-a6d6-1c94301e828b" height="15px"/> Pokemon</h3>
 <img src="https://github.com/AlekseyShashkov/PokemonTMS/assets/17510024/925eb321-3254-433c-a058-ce6102e8b9d4" align="left" width="215px"/>
 
 ```csharp
@@ -45,7 +45,7 @@ public abstract class Pokemon
 ```
 <hr/>
 
-<h3 align="center"><img src="https://github.com/AlekseyShashkov/PokemonTMS/assets/17510024/32580b13-9efa-4868-a6d6-1c94301e828b" height="15px"/> Slowpoke</h3>
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AlekseyShashkov/PokemonTMS/assets/17510024/32580b13-9efa-4868-a6d6-1c94301e828b" height="15px"/> Slowpoke</h3>
 <img src="https://github.com/AlekseyShashkov/PokemonTMS/assets/17510024/835ba365-d4fd-49c1-aabd-b0d8b10d82a2" align="left" width="215px"/>
   
 ```csharp
@@ -68,7 +68,7 @@ public class Slowpoke : Pokemon
 ```
 <hr/>
 
-<h3 align="center"><img src="https://github.com/AlekseyShashkov/PokemonTMS/assets/17510024/32580b13-9efa-4868-a6d6-1c94301e828b" height="15px"/> Pichu</h3>
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AlekseyShashkov/PokemonTMS/assets/17510024/32580b13-9efa-4868-a6d6-1c94301e828b" height="15px"/> Pichu</h3>
 <img src="https://github.com/AlekseyShashkov/PokemonTMS/assets/17510024/c40e2e09-7dc1-4ad6-82d5-f3e9d72d0a55" align="left" width="215px"/>
   
 ```csharp
@@ -89,7 +89,7 @@ public class Pichu : Pokemon
 ```
 <hr/>
 
-<h3 align="center"><img src="https://github.com/AlekseyShashkov/PokemonTMS/assets/17510024/32580b13-9efa-4868-a6d6-1c94301e828b" height="15px"/> Pikachu</h3>
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AlekseyShashkov/PokemonTMS/assets/17510024/32580b13-9efa-4868-a6d6-1c94301e828b" height="15px"/> Pikachu</h3>
 <img src="https://github.com/AlekseyShashkov/PokemonTMS/assets/17510024/67476c28-bd8c-4de5-a5f4-8fe45ee856ab" align="left" width="215px"/>
 
 ```csharp
@@ -114,7 +114,7 @@ public class Pikachu : Pichu
 ```
 <hr/>
 
-<h3 align="center"><img src="https://github.com/AlekseyShashkov/PokemonTMS/assets/17510024/32580b13-9efa-4868-a6d6-1c94301e828b" height="15px"/> Raichu</h3>
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/AlekseyShashkov/PokemonTMS/assets/17510024/32580b13-9efa-4868-a6d6-1c94301e828b" height="15px"/> Raichu</h3>
 <img src="https://github.com/AlekseyShashkov/PokemonTMS/assets/17510024/90376635-8b70-428c-bba5-f33db901378a" align="left" width="215px"/>
  
 ```csharp
